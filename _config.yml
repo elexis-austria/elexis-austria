@@ -1,6 +1,10 @@
+```yml
+theme: jekyll-theme-architect
+```
+
 title: elexis-austria
 description: elexis-austria ist eine einzigartige freie Software für niedergelassene Wahlärzte in Österreich
 show_downloads: true
-google_analytics:
+google_analytics: UA-19709189-1
 theme: jekyll-theme-architect
 baseurl: /elexis-austria
