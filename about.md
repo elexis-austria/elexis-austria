@@ -1,6 +1,6 @@
 ---
 layout: default
-title: impressum
+title: about
 ---
 elexis-austria | die einzigartige Software für die Arztpraxis
 
