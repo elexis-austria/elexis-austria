@@ -1,5 +1,6 @@
 ---
 layout: default
+title: index
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
