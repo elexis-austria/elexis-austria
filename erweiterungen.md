@@ -40,7 +40,7 @@ Mit einem Wartungsvertrag erhalten Sie folgende Leistungen:
 
  - __Aktualisierung der Arzneimitteldaten:__ Monatliche Updates sorgen für ein aktuelles Verzeichnis sämtlicher in Österreich zugelassener Arzneimittel.
 
-##elexis-austria medClient
+## elexis-austria medClient
 
 Der medClient von elexis-austria ist die aktuelle und einfachste Möglichkeit, elexis-austria zu nutzen.
 
