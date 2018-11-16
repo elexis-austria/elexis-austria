@@ -4,6 +4,8 @@ title: impressum
 permalink: /impressum/
 ---
 
+# Impressum
+
 Wir verstehen uns als ganzheitlicher IT-Dienstleister für Ärzte. Das bedeutet für uns, nicht nur Produkte zu verkaufen, sondern die Anforderungen unserer Kunden mit unserem breiten Spektrum an Dienstleistungen abdecken zu können.
 
 Wir bringen IT in Ihre Ordination
@@ -22,7 +24,7 @@ Tel.: +43 72 42 21 40 46
 
 E-Mail: office@elexis-austria.net
 
-[Informationen zu E-Commerce und Mediengesetz] (http://www.wkoecg.at/Web/Ecg.aspx?FirmaID=16b23465-44f2-49af-9b40-b937211375b6)
+![Informationen zu E-Commerce und Mediengesetz] (http://www.wkoecg.at/Web/Ecg.aspx?FirmaID=16b23465-44f2-49af-9b40-b937211375b6)
 
 
 
