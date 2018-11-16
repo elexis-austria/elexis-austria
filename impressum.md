@@ -24,7 +24,7 @@ Tel.: +43 72 42 21 40 46
 
 E-Mail: office@elexis-austria.net
 
-![Informationen zu E-Commerce und Mediengesetz] (http://www.wkoecg.at/Web/Ecg.aspx?FirmaID=16b23465-44f2-49af-9b40-b937211375b6)
+[Informationen zu E-Commerce und Mediengesetz](http://www.wkoecg.at/Web/Ecg.aspx?FirmaID=16b23465-44f2-49af-9b40-b937211375b6)
 
 Datenschutzerklärung herunterladen: [elexis-austria Datenschutzerklärung](https://drive.google.com/uc?export=download&id=19EBVOkRuGaM1BRrK6AQ1b7-5LemrJtGj)
 
@@ -43,7 +43,7 @@ Die Website richtet sich primär an Nutzer in Österreich und berücksichtigt da
 
 ### Geltungsbereich
 
-Diese Datenschutzerklärung klärt Nutzer über die Art, den Umfang und Zwecke der Erhebung und Verwendung personenbezogener Daten durch den verantwortlichen Anbieter [elexis-austria | Dr. Bernhard J. Mayr, Tulpenweg 10, 4600 Wels] auf dieser Website (im folgenden “Angebot”) auf.
+Diese Datenschutzerklärung klärt Nutzer über die Art, den Umfang und Zwecke der Erhebung und Verwendung personenbezogener Daten durch den verantwortlichen Anbieter "elexis-austria | Dr. Bernhard J. Mayr, Tulpenweg 10, 4600 Wels" auf dieser Website (im folgenden “Angebot”) auf.
 
 
 ### Zugriffsdaten/ Server-Logfiles
@@ -54,7 +54,7 @@ Name der abgerufenen Webseite, Datei, Datum und Uhrzeit des Abrufs, übertragene
 
 Der Anbieter verwendet die Protokolldaten nur für statistische Auswertungen zum Zweck des Betriebs, der Sicherheit und der Optimierung des Angebotes. Der Anbieterbehält sich jedoch vor, die Protokolldaten nachträglich zu überprüfen, wenn aufgrund konkreter Anhaltspunkte der berechtigte Verdacht einer rechtswidrigen Nutzung besteht.
 
-Umgang mit personenbezogenen Daten
+### Umgang mit personenbezogenen Daten
 
 Personenbezogene Daten sind Informationen, mit deren Hilfe eine Person bestimmbar ist, also Angaben, die zurück zu einer Person verfolgt werden können. Dazu gehören der Name, die Emailadresse oder die Telefonnummer. Aber auch Daten über Vorlieben, Hobbies, Mitgliedschaften oder welche Webseiten von jemandem angesehen wurden zählen zu personenbezogenen Daten.
 
