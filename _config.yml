@@ -3,4 +3,3 @@ description: elexis-austria ist eine einzigartige freie Software für niedergela
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-architect
-permalink: /:title
