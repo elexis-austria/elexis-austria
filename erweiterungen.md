@@ -40,22 +40,22 @@ Mit einem Wartungsvertrag erhalten Sie folgende Leistungen:
 
  - __Aktualisierung der Arzneimitteldaten:__ Monatliche Updates sorgen für ein aktuelles Verzeichnis sämtlicher in Österreich zugelassener Arzneimittel.
 
- ## elexis-austria medClient
+##elexis-austria medClient
 
- Der medClient von elexis-austria ist die aktuelle und einfachste Möglichkeit, elexis-austria zu nutzen.
+Der medClient von elexis-austria ist die aktuelle und einfachste Möglichkeit, elexis-austria zu nutzen.
 
- Mit dem medClient erhalten Sie einen vorkonfigurierten MiniComputer, den Sie nur mit Strom und Internet verbinden müssen. Wahlweise inkl. Monitor und Tastatur/Maus.
+Mit dem medClient erhalten Sie einen vorkonfigurierten MiniComputer, den Sie nur mit Strom und Internet verbinden müssen. Wahlweise inkl. Monitor und Tastatur/Maus.
 
- Voraussetzung für den Betrieb eines medClient ist ein vorhandener Terminalserver. Dieser kann direkt in der Ordination betrieben oder in unserem Rechenzentrum angemietet werden.
+Voraussetzung für den Betrieb eines medClient ist ein vorhandener Terminalserver. Dieser kann direkt in der Ordination betrieben oder in unserem Rechenzentrum angemietet werden.
 
- ### elexis-austria medClient bedeutet:
+### elexis-austria medClient bedeutet
 
  - einfachste Installation: Nur Kabel anschließen und loslegen
 
  - Hohe Datensicherheit: Verschlüsselte Speicherung Ihrer Daten im Rechenzentrum. Täglich automatische Backups. Durch Zertifikate verschlüsselte Verbindung zum Server. Vermeidung der Gefahr durch Einschleusen von Trojaner und Malware
 
  - Erweiterung Ihrer Ordination erforderlich? Einfach zusätzlichen medClient bestellen, anschließen, einschalten, fertig.
- 
+
 ## Kostenlose Arztsoftware herunter laden
 
 [elexis-austria Community Edition](https://drive.google.com/uc?export=download&id=1Yl29iOjV8YwcxtVkL8jDD_f_eeBRED6u)
