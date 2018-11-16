@@ -1,125 +1,24 @@
 ---
 layout: default
-title: index
-permalink: /home/
+title: Funktionsumfang von elexis-austria
+permalink: /funktionen/
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# Übersicht über die Funktionen von elexis-austria (Community Edition)
 
-[Link to another page](./another-page.html).
+elexis-austria besticht schon im Basispaket durch einen riesigen Funktionsumfang.
 
-There should be whitespace between paragraphs.
+ - __Patientenverwaltung:__ Stammdatenverwaltung Ihrer Patienten. Verwaltung von mitversicherten Patienten. Erinnerungsfunktion an die Aktualisierung der Daten.
+ - __Patientenkartei:__ Führen Sie für jeden Patienten eine eigene Kartei, in der Sie Diagnosen, medizinische Leistungen, Rezeptierungen, etc. eintragen. Durch intelligentes Caching sehen Sie auch bei langen Karteien sofort und ohne Wartezeiten die letzten Einträge während die gesamte Kartei im Hintergrund geladen wird.
+ - __Arzneimittel:__ Übersicht über alle Arzneimittel, die im System gespeichert sind - Vergleich mit
+ wirkstoffähnlichen und wirkstoffgleichen Präparaten ("Ökotool"). Erstellung von Magistralmischungen. Rezeptdruck auf Formulare oder blanko Papier.
+ - __Labor:__ Übersicht über Laborparameter des geöffneten Patienten inklusive Importfunktion für elektronische Labordaten.
+ - __Formularwesen:__ Folgende Formulare können aus unserer Software gedruckt werden: Rezepte, Überweisung und Einweisung, Arbeitsunfähigkeitsmeldung, Verordnung von Heilbehelfen, Transportschein, Zeitbestätigungen, etc.
+ - __Dokumentenmanagement:__ Speichern und verschlagworten Sie beliebige Dateien (wie Bilder, Videos, Sprachmemos, Fremdbefunde, etc.) zu jedem Patienten.
+ - __Terminmanagement:__ Legen Sie beliebig viele Terminkalender für Ihre Ordination an. Definieren Sie Rahmenzeiten für Patiententermine und verknüpfen Sie die Termine direkt mit den Patienten aus Ihrer Datenbank. Fügen Sie in einem Arbeitsschritt zusätzliche Folgetermine ein und drucken Sie für den Patienten die Terminübersicht aus. Unser Terminmanagement lässt verschiedenen Ansichten (Tagesansicht, Wochenübersicht, Parallelansicht) zu.
+ - __Wartelisten:__ Mit Wartelisten sehen Sie auf einen Blick, wer auf die Behandlung wartet. Sie können beliebig viele Wartelisten parallel verwenden. Patienten mit Terminen werden auf der Warteliste extra hervorgehoben.
+ - __Textbausteine:__ Beschleunigen Sie Ihren Arbeitsablauf durch die Verwendung von Textbausteinen, die Sie einfach durch Kürzel in alle Textfelder in Ihrer Arztsoftware eintragen können.
+ - __DaMe-Integration:__ Befunde, die Sie über das Datennetz der Medizin (DaMe) erhalten werden automatisch zu den betroffenen Patienten zugeordnet. _(Sie benötigen zusätzlich einen Account für DaMe von A1.)_
+ - __Verrechnung:__ Aus den in der Patientenkartei eingetragenen Leistungen können Sie automatisch Privatrechnungen erstellen und ausdrucken. Einschließlich Statistikmodul, mit dem Sie die Verrechnungsdaten auch als Liste oder Excel Dokument herunterladen können.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+Laden Sie noch heute Ihre kostenlose Arztsoftware herunter: ![elexis-austria-0.0.24_install.jar](https://drive.google.com/uc?export=download&id=1Yl29iOjV8YwcxtVkL8jDD_f_eeBRED6u)
