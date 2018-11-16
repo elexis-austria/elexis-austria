@@ -26,8 +26,7 @@ E-Mail: office@elexis-austria.net
 
 ![Informationen zu E-Commerce und Mediengesetz] (http://www.wkoecg.at/Web/Ecg.aspx?FirmaID=16b23465-44f2-49af-9b40-b937211375b6)
 
-
-
+Datenschutzerklärung herunterladen: [elexis-austria Datenschutzerklärung](https://drive.google.com/uc?export=download&id=19EBVOkRuGaM1BRrK6AQ1b7-5LemrJtGj)
 
 
 ## Nutzungsbedingungen der Website und Datenschutzerklärung

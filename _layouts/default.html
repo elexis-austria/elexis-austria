@@ -1,11 +1,22 @@
 <!DOCTYPE html>
-<html lang="{{ site.lang | default: "en-US" }}">
+<html lang="{{ site.lang | default: "de-AT" }}">
   <head>
     <meta charset='utf-8'>
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}" media="screen" type="text/css">
     <link rel="stylesheet" href="{{ '/assets/css/print.css' | relative_url }}" media="print" type="text/css">
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-19709189-1"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'UA-19709189-1');
+    </script>
+
 
     <!--[if lt IE 9]>
     <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
@@ -37,8 +48,16 @@
                 Funktionen
               </a>
 
+              <a href="{{ site.baseurl}}/erweiterungen" class="button">
+                Erweiterungen
+              </a>
+
             <a href="{{ site.baseurl}}/impressum" class="button">
               Impressum
+            </a>
+
+            <a href="https://get.teamviewer.com/7dvzyvb" class="button">
+              Fernwartung
             </a>
 
           {% endif %}
@@ -46,6 +65,8 @@
         </aside>
       </div>
     </div>
+
+    {% include footer.html %}
 
     {% if site.google_analytics %}
       <script>
