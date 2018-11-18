@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Funktionsumfang von elexis-austria
-permalink: /funktionen/
+permalink: /
 ---
 
 # Übersicht über die Funktionen von elexis-austria (Community Edition)
