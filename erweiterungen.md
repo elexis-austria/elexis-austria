@@ -55,7 +55,3 @@ Voraussetzung für den Betrieb eines medClient ist ein vorhandener Terminalserve
  - Hohe Datensicherheit: Verschlüsselte Speicherung Ihrer Daten im Rechenzentrum. Täglich automatische Backups. Durch Zertifikate verschlüsselte Verbindung zum Server. Vermeidung der Gefahr durch Einschleusen von Trojaner und Malware
 
  - Erweiterung Ihrer Ordination erforderlich? Einfach zusätzlichen medClient bestellen, anschließen, einschalten, fertig.
-
-## Kostenlose Arztsoftware herunter laden
-
-[elexis-austria Community Edition](https://drive.google.com/uc?export=download&id=1Yl29iOjV8YwcxtVkL8jDD_f_eeBRED6u)
