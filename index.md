@@ -33,7 +33,3 @@ permalink: /
  - __DaMe-Integration:__ Befunde, die Sie über das Datennetz der Medizin (DaMe) erhalten werden automatisch zu den betroffenen Patienten zugeordnet. _(Sie benötigen zusätzlich einen Account für DaMe von A1.)_
 
  - __Verrechnung:__ Aus den in der Patientenkartei eingetragenen Leistungen können Sie automatisch Privatrechnungen erstellen und ausdrucken. Einschließlich Statistikmodul, mit dem Sie die Verrechnungsdaten auch als Liste oder Excel Dokument herunterladen können.
-
-## Kostenlose Arztsoftware herunterladen
-
-[elexis-austria Community Edition](https://drive.google.com/uc?export=download&id=1Yl29iOjV8YwcxtVkL8jDD_f_eeBRED6u)
