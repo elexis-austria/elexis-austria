@@ -43,7 +43,7 @@ Die Website richtet sich primär an Nutzer in Österreich und berücksichtigt da
 
 ### Geltungsbereich
 
-Diese Datenschutzerklärung klärt Nutzer über die Art, den Umfang und Zwecke der Erhebung und Verwendung personenbezogener Daten durch den verantwortlichen Anbieter "elexis-austria | Dr. Bernhard J. Mayr, Tulpenweg 10, 4600 Wels" auf dieser Website (im folgenden “Angebot”) auf.
+Diese Datenschutzerklärung klärt Nutzer über die Art, den Umfang und Zwecke der Erhebung und Verwendung personenbezogener Daten durch den verantwortlichen Anbieter "elexis-austria - Dr. Bernhard J. Mayr, Tulpenweg 10, 4600 Wels" auf dieser Website (im folgenden “Angebot”) auf.
 
 
 ### Zugriffsdaten/ Server-Logfiles
